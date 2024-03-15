@@ -1,6 +1,6 @@
 Devfolio - A software engineer portfolio
 
-This is a personal portfolio made by codewithsadee
+This is a personal portfolio made by jmmanoza
 
 https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
 
@@ -171,4 +171,4 @@ Send Message
 
 #---------- FOOTER ----------#
 
-Copyright 2023. All right reserved by codewithsadee
+Copyright 2023. All right reserved by jmmanoza
